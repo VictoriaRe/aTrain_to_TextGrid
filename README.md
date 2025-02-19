@@ -41,3 +41,8 @@ jupyter notebook
 This will open Jupyter Notebook in your default web browser. Choose this file that you have downloaded from GitHub.
 
 You are now ready to run the code!
+
+---
+
+## Questions?
+Please, contact [Victoria Reshetnikova](https://www.linkedin.com/in/victoria-reshetnikova-8227b9177/) if you have any questions or encounter issues running the code.
