@@ -1,7 +1,7 @@
 # Converting aTrain files to TextGrid
 
 ### 1. Download the Jupyter Notebook  
-Before you begin, you need to download the Jupyter Notebook file from GitHub. Go to the [aTrain_to_TextGrid GitHub repository](https://github.com/your-repository-link), locate the notebook file (e.g., `aTrain_to_TextGrid.ipynb`), and click on it. Then, click the **"Download"** button or the **"Raw"** button to save the file to your computer.
+Before you begin, you need to download the Jupyter Notebook file from GitHub. Go to the [aTrain_to_TextGrid GitHub repository](https://github.com/VictoriaRe/aTrain_to_TextGrid.git), locate the notebook file (e.g., `aTrain_to_TextGrid.ipynb`), and click on it. Then, click the **"Download"** button or the **"Raw"** button to save the file to your computer.
 
 ## Setting Up Python and Jupyter Notebook
 
